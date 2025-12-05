@@ -150,7 +150,7 @@ export default function Home() {
         <Avatar
           size="2xl"
           name="Nishant"
-          src="/Nishant.jpg"
+          src="/Nishantnew.jpg"
           border="6px solid white"
           boxShadow="2xl"
           w="260px"
